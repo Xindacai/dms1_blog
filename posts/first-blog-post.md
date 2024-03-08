@@ -8,6 +8,8 @@ snippet: This is an excerpt of my first blog post.
 
 Hello, world!
 
+some changes
+
 # This is h1
 
 ## This is h2
