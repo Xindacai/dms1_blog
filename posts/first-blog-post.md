@@ -39,3 +39,5 @@ https://www.youtube.com/watch?v=WXQxwOfttMw
 
 link to my 30 second experiment edit:
 https://www.youtube.com/watch?v=PDkzzz_LHd0
+
+reflection for the edit:
