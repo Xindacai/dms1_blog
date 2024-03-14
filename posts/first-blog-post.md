@@ -41,4 +41,4 @@ link to my 30 second experiment edit:
 https://www.youtube.com/watch?v=PDkzzz_LHd0
 
 reflection for the edit:
-during the process of this edit, I'm aiming to express that the person sitting in his room is spending too much time looking at his phone and watching tv at the very start, which I made the starting clip quite long in duration to emphasize that (see screenshot: ). I want to the person should 
+during the process of this edit, I'm aiming to express that the person sitting in his room is spending too much time looking at his phone and watching tv at the very start, which I made the starting clip quite long in duration to emphasize that (see ). I want to the person should 
