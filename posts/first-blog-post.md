@@ -4,7 +4,7 @@ published_at: 2024-03-08T13:32
 snippet: This is an excerpt of my first blog post.
 ---
 
-![this is a photo of a book containing Digital Media wisdom, found amongst many which we found in the library in building 12 of the campus, this was a pretty easy find as we managed to discover this book in the first level of the library](/w01s1/photo 1.webp)
+![photo of a book containing Digital Media wisdom, found amongst many which we found in the library in building 12 of the campus, this was a pretty easy find as we managed to discover this book in the first level of the library](/w01s1/photo 1.webp)
 
 ![this is a photo of a wide net strung above, bulging under the weight of its flying paper cargo we discovered while looking down through the glass door on the second floor of the library, and this was relatively difficult to find since it's hung on the ceiling of building 12 near the third level of the library](/w01s1/photo 2.webp)
 
