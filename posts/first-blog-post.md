@@ -40,7 +40,7 @@ we discovered this in the cafeteria next to the entrance of building 8 and this 
 
 we discovered this in a park outside of our campus and we happened to find this on the way of looking for other structures during the scavenger hunt which was lucky
 
-![photo of a curtain of roots, delivered by a winged visitor (/w01s1/photo10.webp)]
+![photo of a curtain of roots, delivered by a winged visitor](/w01s1/photo10.webp)
 
 we found this outside the back entrance to building 12 and the process of searching for this structure was very confusing since we have never heard of this term before
 
