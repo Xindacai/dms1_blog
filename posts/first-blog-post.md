@@ -44,15 +44,5 @@ we discovered this in a park outside of our campus and we happened to find this 
 
 we found this outside the back entrance to building 12 and the process of searching for this structure was very confusing since we have never heard of this term before
 
-Hello, world!
-
-# This is h1
-
-## This is h2
-
-_underline_
-
-**bold**
-
 link to my 30 second footage:
 https://www.youtube.com/watch?v=WXQxwOfttMw
