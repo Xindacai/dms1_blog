@@ -14,4 +14,5 @@ The audience needs to understand that all the shots in this moment are mainly re
 
 I'm attempting to establish a relatively slow pace during this moment. My editing will produce this as I will make the duration of this moment much longer than all the other moments throughout my work (see screenshot) ![see screenshot in](/w01s1/long.png). I will also produce this by adding long audio fade in and fade outs during this section.
 
+updated version of my storyboard
 ![updated version of my storyboard](/w01s1/storyboard_final_sonic.png)
