@@ -1,7 +1,8 @@
-
+---
 title: This is my blog post for week 2 session 2!
 published_at: 2024-03-19T21:37
 snippet: This is an excerpt of my fourth blog post.
+---
 
 The key moment I planned for my 2 minutes edit will be the moment where I show myself playing piano ![see screenshot in](/w01s1/piano.png) then cutting to the scene where I teach my cat how to play piano ![see screenshots in](/w01s1/catplayspiano.png)and ![see screenshot in](/w01s1/catplayspianonext.png) and my cat playing in the metronome ![see screenshot in](/w01s1/piano.png).
 
