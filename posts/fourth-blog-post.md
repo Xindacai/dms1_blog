@@ -12,3 +12,5 @@ The emotional tone of my broader portrait is relaxing and my editing choice will
 The audience needs to understand that all the shots in this moment are mainly related to the moment of me practicing piano and producing music, and letting my pets play on my piano when they are around. I'm trying to forge the connection between my passion towards music making and also playing with my cats.
 
 I'm attempting to establish a relatively slow pace during this moment. My editing will produce this as I will make the duration of this moment much longer than all the other moments throughout my work ![see screenshot in](/w01s1/long.png). I will also produce this by adding long audio fade in and fade outs during this section.
+
+![updated version of my storyboard](/w01s1/storyboard_final_sonic.png)
